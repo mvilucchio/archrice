@@ -1,3 +1,3 @@
 # archdotfiles
 
-In this repo I keeè the configuration dot files for my arch version.
+In this repo I keep the configuration dot files for my arch version.
